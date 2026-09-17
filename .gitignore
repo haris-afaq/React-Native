@@ -1,1 +1,24 @@
+
 node_modules
+node_modules/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Logs
+*.log
+
+# Metro
+.metro-health-check*
+
+# OS
+.DS_Store
+
+android/app/.cxx/
